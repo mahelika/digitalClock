@@ -1,0 +1,19 @@
+html,
+body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+#clock {
+  font-size: 48px;
+  font-weight: bold;
+  text-align: center;
+  color: rgb(111, 216, 246); /* Set the clock color to blue */
+  background-color: rgb(0, 0, 0); /* Set the clock background color to black */
+  padding: 10px; /* Add some padding for better visibility */
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
